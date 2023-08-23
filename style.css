@@ -917,6 +917,12 @@ img{
         flex-direction: column;
         align-items: center;
     }
+	.content-text h4{
+    font-size: 19px;
+    padding: 15px 20px;
+    border: #c3aafe 3px solid;
+    border-radius: var(--radius);
+}
     .hamburger{
         display: block;
     }
