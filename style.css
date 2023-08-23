@@ -928,12 +928,14 @@ img{
 	padding: 14px;
 }
 .timeline-content2{
-	padding: 17px;
+	padding: 14px;
 }
 .timeline-content h3{
     font-size: 17px;
 }
-
+.timeline-content2 h3{
+    font-size: 17px;
+}
 
 }
 @media all and (max-width:390px){
