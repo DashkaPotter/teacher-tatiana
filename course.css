@@ -501,12 +501,7 @@ img{
 	font-weight: 500;
     
 }
-.timeline-content2 h3{
-    font-size: 20px;
-	color: var(--sections-bg);
-	font-weight: 500;
-    
-}
+
 
 
 @media(max-width: 767px){
@@ -719,6 +714,11 @@ img{
     width: 100%;
     max-width: 330px;
 }
+	.timeline-content h3{
+    font-size: 18px;
+	color: var(--sections-bg);
+	font-weight: 500;
+    
 
 }
 
