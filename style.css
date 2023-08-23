@@ -863,7 +863,6 @@ img{
         font-size: 13px;
     }
     .color{
-        background: #c3aafe;
         font-size: 17px;
         padding: 4px 4px;
     }
@@ -901,13 +900,9 @@ img{
         color: white;
         margin-top: 11px;
         font-size: 15px;
-        font-weight: 800;
     }
     .btn{
-        background-color: var(--main-color);
-        border-radius: var(--radius);
         font-size: 1.3rem;
-        border: none;
         padding: 12px 20px;
         margin-top: 40px;
     }
@@ -918,10 +913,8 @@ img{
         align-items: center;
     }
 	.content-text h4{
-    font-size: 19px;
-    padding: 15px 20px;
-    border: #c3aafe 3px solid;
-    border-radius: var(--radius);
+    font-size: 18px;
+    padding: 15px 19px;
 }
     .hamburger{
         display: block;
