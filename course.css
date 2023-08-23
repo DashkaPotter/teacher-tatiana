@@ -721,6 +721,14 @@ img{
     font-size: 18px;
     
 }
+	.my-list li::before{
+    content: counter(my-counter);
+    font-size: .6em;
+    aspect-ratio: 1;
+    width: 1.2rem;
+    border-radius: 50%;
+    margin-right: 4px;
+}
 
 }
 
