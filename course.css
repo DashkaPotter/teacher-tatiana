@@ -501,7 +501,12 @@ img{
 	font-weight: 500;
     
 }
-
+.timeline-content2 h3{
+    font-size: 20px;
+	color: var(--sections-bg);
+	font-weight: 500;
+    
+}
 
 
 @media(max-width: 767px){
@@ -611,7 +616,6 @@ img{
     }
     .main-title h2{
         font-size: 1.4rem;
-        text-shadow: 2px 2px 2px var(--main-color);
         text-transform: capitalize;
         line-height: 60px;
     }
@@ -634,10 +638,7 @@ img{
     }
     .check{
         padding: 13px 21px;
-        color: var(--sections-bg);
-        background-color: #e0a6fffd;
         margin: 10px;
-        border-radius: var(--radius);
     }
     .img-wrap img{
         width: 29px;
@@ -652,7 +653,6 @@ img{
         margin-left: -0.5em;
         font-size: 1.1rem;
         letter-spacing: 0.14em;
-        text-shadow: 1px 1px 2px #6e6e6e;
     }
     .card h1{
         font-size: 1.4rem;
@@ -696,7 +696,6 @@ img{
     margin-bottom: 30px;
 }
 .list-who li{
-    color: white;
     margin-top: 12px;
     font-size: 19px;
 }
@@ -711,14 +710,17 @@ img{
 .main-title h4{
     font-size: 1rem;
     margin-top: 15px;
-    width: 100%;
     max-width: 330px;
 }
 	.timeline-content h3{
     font-size: 18px;
-	color: var(--sections-bg);
-	font-weight: 500;
+
+	}
+
+.timeline-content2 h3{
+    font-size: 18px;
     
+}
 
 }
 
